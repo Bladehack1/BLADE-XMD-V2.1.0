@@ -4,7 +4,7 @@
 <p align="center">                                              𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝚫𝚴𝐃𝚩𝚫𝐃+𝚳𝐃+𝛁2;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+𝐀𝐍𝐃𝐑𝐄𝐖+𝐓𝐙;🚀+Next-Gen+Ai+Technology;🇹🇿+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝐁𝐋𝐀𝐃𝐄+𝐗𝚳𝐃+𝛁2;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+𝐀𝐋𝐃+𝐇𝐀𝐒𝐒𝐀𝐍;🚀+Next-Gen+Ai+Technology;🇨🇩+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## 🌟 Features
 - ✅ **AI-Powered Responses** – Fast, smart, and reliable conversation handling.  
 - ✅ **Next-Gen Technology** – Built with modern AI tools for a seamless experience.  
-- ✅ **Tanzania Optimized** – Designed with 🇹🇿 users in mind.  
+- ✅ **𝐃𝐑𝐂 Optimized** – Designed with 🇨🇩 users in mind.  
 - ✅ **Multi-Platform Support** – Works on mobile and desktop WhatsApp clients.  
 - ✅ **Secure & Reliable** – Your data is safe and protected 🔒.  
 
@@ -106,4 +106,4 @@ _______________________________________
 If you encounter any issues, open an Issue on GitHub or reach out via WhatsApp using the bot's pairing link.
 _______________________________________
 
-<p align="center">Made with ❤️ by 𝐀𝐍𝐃𝐑𝐄𝐖 𝐓𝐙</p>
+<p align="center">Made with ❤️ by 𝐀𝐋𝐃 𝐇𝐀𝐒𝐒𝐀𝐍</p>
