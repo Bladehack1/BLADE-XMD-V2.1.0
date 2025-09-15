@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Node.js-v20.4.0-green?logo=node.js&style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-Deploy-blueviolet?logo=heroku&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Mrandbad/ANDBAD-MD-V2?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Bladehack1/BLADE?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Bladehack1/?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Bladehack1/BLADE-XMD-V2.1.0?style=for-the-badge" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 Deploy your own instance of **𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2** quickly on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Mrandbad/ANDBAD-MD-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Bladehack1/BLADE-XMD-V2.1.0)
 
 **Steps:**
 1. Click the **Deploy to Heroku** button above.  
@@ -73,8 +73,8 @@ Copy code
 
 
 # Clone the repo
-git clone https://github.com/Mrandbad/ANDBAD-MD-V2.git
-cd ANDBAD-MD-V2
+git clone https://github.com/Bladehack1/BLADE-XMD-V2.1.0.git
+cd BLADE-XMD-V2.1.0
 
 # Install dependencies
 npm install
