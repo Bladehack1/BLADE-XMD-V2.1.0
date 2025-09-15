@@ -1,7 +1,7 @@
 <a><img src=''/></a>
 <a><img src='https://file.bwmxmd.online/bwmxmd_6ul7n.jpeg'/></a>
 
-<p align="center">                                              𝚫𝚴𝐃𝚩𝚫𝐃-𝚳𝐃-𝛁2</p>
+<p align="center">                                              𝐁𝐋𝐀𝐃𝐄-𝐗𝚳𝐃-𝛁2</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+𝐁𝐋𝐀𝐃𝐄+𝐗𝚳𝐃+𝛁2;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+𝐀𝐋𝐃+𝐇𝐀𝐒𝐒𝐀𝐍;🚀+Next-Gen+Ai+Technology;🇨🇩+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-Deploy-blueviolet?logo=heroku&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/Mrandbad/ANDBAD-MD-V2?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/Mrandbad/ANDBAD-MD-V2?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Bladehack1/BLADE?style=for-the-badge" />
 </p>
 
 ---
